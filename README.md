@@ -16,7 +16,7 @@ In order to capture as many scenarios as possible, and simulate highly cluttured
 A demonstration of the variable scene generation capabilities of MIDGARD are presented in the following figure:
 
 <p align="center">
-  <img src="https://github.com/Tatonta/Master_Thesis/src/figures/MIDGARD_scenarios.png" />
+  <img src="https://github.com/Tatonta/Master_Thesis/blob/main/src/figures/MIDGARD_scenarios.png" scale=0.3/>
 </p>
 
 ## Configurations
@@ -31,5 +31,5 @@ In MIDGARD landscapes are generated procedurally, and there are 4 different type
 The procedural generation is done by partitioning the landscape into a number of cells controlled by the difficulty level.
 The effect of the difficulty on the obstacle density is seen in the following figure:
 <p align="center">
-  <img src="https://github.com/Tatonta/Master_Thesis/src/figures/MIDGARD_clutteredenv.png" />
+  <img src="https://github.com/Tatonta/Master_Thesis/blob/main/src/figures/MIDGARD_clutteredenv.png" />
 </p>
