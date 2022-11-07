@@ -1,0 +1,20 @@
+{
+    "title": "PAPER: Your Awesome Paper Title",
+    "thumbnail": "link_to_image_thumbnail",
+    "year": 2021,
+    "authors": [
+        "List",
+        "Of",
+        "Authors"
+    ],
+    "publisher": "Conference of Journal Name",
+    "link": "link_to_the_paper",
+    "resources": {
+        "pdf": "link_to_pdf (if different from link)",
+        "github": "https://github.com/perceivelab/repo_name",
+        "bibtex": "fibtex from google scholar. All in one line. Add \n for new lines.",
+        "ppt": "if there's an online powerpoint/presentation",
+        "paperswithcode": "https://paperswithcode.com/paper/paper_name"
+    },
+    "relevant": true
+}
