@@ -43,8 +43,9 @@ python3 train_v2
 // For SAC
 python3 trainSAC
 ```
+## PPO in Meadow and Glacier scenes
 Below is presented a video of the PPO algorithm trained on the Meadow landscape with Curriculum learning and the Glacier landscape (with fixed difficulty = 0.3)
-## PPO in Meadow and Glacier scene
-<p align="center">
-  <img width="720" height="480" src="https://img.youtube.com/vi/Mn11uPtTb9Y/hqdefault.jpg"  href="https://www.youtube.com/watch?v=Mn11uPtTb9Y">
-</p>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Mn11uPtTb9Y"><img src="https://img.youtube.com/vi/Mn11uPtTb9Y/hqdefault.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
