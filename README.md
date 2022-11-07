@@ -35,11 +35,11 @@ The effect of the difficulty on the obstacle density is seen in the following fi
 </p>
 
 To run the different algorithms, run the command:
-'''
+```
 // For DQN
 python3 trainDQN
 // For PPO
 python3 train_v2
 // For SAC
 python3 trainSAC
-'''
+```
